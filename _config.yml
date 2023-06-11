@@ -3,7 +3,7 @@ description: A Craftnite hacked client.
 theme: just-the-docs
 color_scheme: dark
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://infinity-atom.github.io/CollisionClient
+favicon_ico: "/media/logos/cc-logo-512.png"
+logo: "/media/logos/cc-logo-512.png"
+footer_content: "This work is licenced under the Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) licence."
