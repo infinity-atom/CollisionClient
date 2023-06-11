@@ -17,4 +17,4 @@ document.addEventListener("keydown", (e) => {
 ```
 There would be extra code to get it to work only when **Speedhack** is enabled.
 
-[Flyhack]: Flyhack.md
+[Flyhack]: Flyhack.html
