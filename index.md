@@ -14,3 +14,5 @@ You cannot download CollisionClient at the moment.
 
 # Contribute to the client
 You cannot contribute to CollisionClient at the moment.
+
+[Craftnite]: https://craftnite.io
