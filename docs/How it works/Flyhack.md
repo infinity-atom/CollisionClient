@@ -1,5 +1,5 @@
 ---
-title: How it works - Flyhack
+title: Flyhack
 layout: default
 ---
 # How it works - Flyhack
