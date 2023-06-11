@@ -1,6 +1,7 @@
 ---
 title: Flyhack
 layout: default
+parent: How it works
 ---
 # How it works - Flyhack
 **Flyhack** is a hack that allows you to fly in the server.

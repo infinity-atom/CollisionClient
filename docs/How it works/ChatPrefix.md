@@ -1,6 +1,7 @@
 ---
 title: ChatPrefix
 layout: default
+parent: How it works
 ---
 # How it works - ChatPrefix
 **ChatPrefix** is a hack that puts a prefix before your message.
