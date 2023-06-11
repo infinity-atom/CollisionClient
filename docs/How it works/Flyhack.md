@@ -1,3 +1,7 @@
+---
+title: How it works - Flyhack
+layout: default
+---
 # How it works - Flyhack
 **Flyhack** is a hack that allows you to fly in the server.
 
